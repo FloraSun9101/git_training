@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 And someone else added this line recently.
 Practicing merge...again...
 Change made in the github website version 2.0
+This is some thing I do not know whether should be pushed to the repo.
