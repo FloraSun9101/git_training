@@ -1,2 +1,3 @@
 Hi! my name is Bob, I am new here. The third time modified.
 How about change the file in Bob.txt?
+This is the change I want to pick up in Bob.txt.
